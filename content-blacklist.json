@@ -1,0 +1,924 @@
+{
+	"siteVersion": "1.141.1",
+	"fileType": "content-blacklist",
+	"blacklist": [
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AL"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALCurseOfStrahd"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALElementalEvil"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ALRageOfDemons"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AWM"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AZfyT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-AVT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-DN"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-FCD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-ISF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "AitFR-THP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "DD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "DoD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "EFR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Bugbear",
+			"hash": "bugbear_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Orc",
+			"hash": "orc_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "FS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Centaur",
+			"hash": "centaur_ggr",
+			"category": "race",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Minotaur",
+			"hash": "minotaur_ggr",
+			"category": "race",
+			"source": "GGR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HftT"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "IMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "KKW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "LLK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "LR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MFF"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "MaBJoV"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "OGA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "OoW"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSA"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSD"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSI"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSX"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "PSZ"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RMBRE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RMR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "RtG"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "SADS"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "TLK"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "TTP"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "ToR"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020Feats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020PsionicOptionsRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SpellsAndMagicTattoos"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt1"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt2"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt3"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt4"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesPt5"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2020SubclassesRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021DraconicOptions"
+		},
+		{
+			"displayName": "Fairy",
+			"hash": "fairy_ua2021folkofthefeywild",
+			"category": "race",
+			"source": "UA2021FolkOfTheFeywild"
+		},
+		{
+			"displayName": "Hobgoblin",
+			"hash": "hobgoblin_ua2021folkofthefeywild",
+			"category": "race",
+			"source": "UA2021FolkOfTheFeywild"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021GothicLineages"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UA2021MagesOfStrixhaven"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAATrioOfSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAArtificer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAArtificerRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABarbarianAndMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABarbarianPrimalPaths"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABardAndPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UABardBardColleges"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UACentaursMinotaurs"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClassFeatureVariants"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClericDivineDomains"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAClericDruidWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UADruid"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAEladrinAndGith"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAElfSubraces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeats"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeatsForRaces"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFeatsForSkills"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFiendishOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighter"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighterRangerRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAFighterRogueWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGiantSoulSorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGothicHeroes"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAGreyhawkInitiative"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAKitsOfOld"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UALightDarkUnderdark"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAMassCombat"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAModernMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAModifyingClasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAMonk"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAOfShipsAndSea"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAOrderDomain"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAPaladin"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAPrestigeClassesRunMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARacesOfEberron"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARacesOfRavnica"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARanger"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARangerAndRogue"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARevisedClassOptions"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UARevisedSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASidekicks"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASorcerer"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UASorcererAndWarlock"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAStarterSpells"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThatOldBlackMagic"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheFaithful"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheMysticClass"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UATheRangerRevised"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThreePillarExperience"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAThreeSubclasses"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAVariantRules"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWGE"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWarlockAndWizard"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWaterborneAdventures"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "UAWizardRevisited"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "US"
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XMtS"
+		},
+		{
+			"displayName": "Elf (Eladrin)",
+			"hash": "elf%20(eladrin)_dmg",
+			"category": "race",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gnome (Deep)",
+			"hash": "gnome%20(deep)_dmg",
+			"category": "race",
+			"source": "DMG"
+		},
+		{
+			"displayName": "Gnome (Deep)",
+			"hash": "gnome%20(deep)_mtf",
+			"category": "race",
+			"source": "MTF"
+		},
+		{
+			"displayName": "Goblin",
+			"hash": "goblin_erlw",
+			"category": "race",
+			"source": "ERLW"
+		},
+		{
+			"displayName": "Goblin",
+			"hash": "goblin_ggr",
+			"category": "race",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Triton",
+			"hash": "triton_mot",
+			"category": "race",
+			"source": "MOT"
+		},
+		{
+			"displayName": "Baldur's Gate Acolyte",
+			"hash": "baldur's%20gate%20acolyte_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Charlatan",
+			"hash": "baldur's%20gate%20charlatan_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Criminal",
+			"hash": "baldur's%20gate%20criminal_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Entertainer",
+			"hash": "baldur's%20gate%20entertainer_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Folk Hero",
+			"hash": "baldur's%20gate%20folk%20hero_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Guild Artisan",
+			"hash": "baldur's%20gate%20guild%20artisan_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Hermit",
+			"hash": "baldur's%20gate%20hermit_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Noble",
+			"hash": "baldur's%20gate%20noble_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Outlander",
+			"hash": "baldur's%20gate%20outlander_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Sage",
+			"hash": "baldur's%20gate%20sage_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Sailor",
+			"hash": "baldur's%20gate%20sailor_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Soldier",
+			"hash": "baldur's%20gate%20soldier_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Baldur's Gate Urchin",
+			"hash": "baldur's%20gate%20urchin_bgdia",
+			"category": "background",
+			"source": "BGDIA"
+		},
+		{
+			"displayName": "Azorius Functionary",
+			"hash": "azorius%20functionary_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Boros Legionnaire",
+			"hash": "boros%20legionnaire_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Dimir Operative",
+			"hash": "dimir%20operative_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Golgari Agent",
+			"hash": "golgari%20agent_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Gruul Anarch",
+			"hash": "gruul%20anarch_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Izzet Engineer",
+			"hash": "izzet%20engineer_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Orzhov Representative",
+			"hash": "orzhov%20representative_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Rakdos Cultist",
+			"hash": "rakdos%20cultist_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Selesnya Initiate",
+			"hash": "selesnya%20initiate_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Simic Scientist",
+			"hash": "simic%20scientist_ggr",
+			"category": "background",
+			"source": "GGR"
+		},
+		{
+			"displayName": "Augen Trust (Spy)",
+			"hash": "augen%20trust%20(spy)_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Cobalt Scholar (Sage)",
+			"hash": "cobalt%20scholar%20(sage)_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Luxonborn (Acolyte)",
+			"hash": "luxonborn%20(acolyte)_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Myriad Operative (Criminal)",
+			"hash": "myriad%20operative%20(criminal)_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Revelry Pirate (Sailor)",
+			"hash": "revelry%20pirate%20(sailor)_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Volstrucker Agent",
+			"hash": "volstrucker%20agent_egw",
+			"category": "background",
+			"source": "EGW"
+		},
+		{
+			"displayName": "Witchlight Hand",
+			"hash": "witchlight%20hand_wbtw",
+			"category": "background",
+			"source": "WBtW"
+		},
+		{
+			"displayName": "Uthgardt Tribe Member",
+			"hash": "uthgardt%20tribe%20member_scag",
+			"category": "background",
+			"source": "SCAG"
+		},
+		{
+			"displayName": "Waterdhavian Noble",
+			"hash": "waterdhavian%20noble_scag",
+			"category": "background",
+			"source": "SCAG"
+		}
+	]
+}
