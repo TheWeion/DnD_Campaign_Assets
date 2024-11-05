@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="2342" height="2342" viewBox="0 0 200 200">
   <defs>
-    <clipPath id="shield_729191304">
+    <clipPath id="shield_729415053">
       <path d="M 100,12 176.2,56 176.2,144 100,188 23.8,144 23.8,56 Z"/>
     </clipPath>
-    <clipPath id="division_729191304">
+    <clipPath id="division_729415053">
       <path d="m 0,115 v -30 c 0,0 60,20.2 100,20 40,-0.2 100,-20 100,-20 v 30 V200 H0 Z" transform="translate(161.66 10) rotate(66.66 -100 100) scale(-1 1)"/>
       <path d="m 0,115 v -30 c 0,0 60,20.2 100,20 40,-0.2 100,-20 100,-20 v 30 V200 H0 Z" transform="translate(38.33 10) rotate(-66.66 100 100)"/>
     </clipPath>
@@ -87,9 +87,9 @@
     </g>
     <style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style>
   </defs>
-  <g clip-path="url(#shield_729191304)">
+  <g clip-path="url(#shield_729415053)">
     <rect class="field" x="0" y="0" width="200" height="200" fill="#002366"/>
-    <g class="division" clip-path="url(#division_729191304)">
+    <g class="division" clip-path="url(#division_729415053)">
       <rect x="0" y="0" width="200" height="200" fill="#fafafa"/>
     </g>
     <rect class="diaper" x="0" y="0" width="200" height="200" fill="url(#nourse)" style="pointer-events: none;"/>
@@ -99,7 +99,7 @@
     <g class="charge" i="1" charge="attire" fill="#fafafa" transform="translate(-20 -48)" stroke="#002366" style="--secondary: #fafafa; --tertiary: #fafafa; --stroke: #002366; --background: block;">
       <use xlink:href="#attire" transform="translate(150 50) scale(-0.5 0.5)"/>
     </g>
-    <g class="charge" i="2" charge="gear" fill="#ffd700" stroke="none" style="--secondary: #ffd700; --tertiary: #ffd700; --stroke: none; --background: block;">
+    <g class="charge" i="2" charge="gear" fill="#ffd300" stroke="none" style="--secondary: #ffd300; --tertiary: #ffd300; --stroke: none; --background: block;">
       <use xlink:href="#gear" transform="translate(195 5) scale(-0.95 0.95)"/>
     </g>
     <g class="charge" i="3" charge="watchcog" fill="#fafafa" transform="translate(-1 0)" stroke="none" style="--secondary: #fafafa; --tertiary: #fafafa; --stroke: none; --background: block;">
